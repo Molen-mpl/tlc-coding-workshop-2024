@@ -10,7 +10,11 @@ body {
 h1,
 h2,
 strong {
-    color: #333;
+    color: #434248;
+}
+
+.top-title{
+    color:#2424b8;
 }
 
 img {
